@@ -1,4 +1,4 @@
-module github.com/UnnoTed/horizontal
+module github.com/sidkik/horizontal
 
 go 1.15
 
